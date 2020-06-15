@@ -1,0 +1,56 @@
+body {
+    overflow-x: hidden;
+    max-width: 100%;
+}
+.header-top{
+    background-color:dodgerblue;
+    padding: 6px 0px 6px 0px;
+}
+.header-top a{
+    text-decoration:none;
+    color:white;
+}
+
+.header-bottom{
+    font-size: 25px;
+
+}
+.header-bottom a{
+    color:dodgerblue;
+    padding: 0px 0px 0px 10px;
+    
+}
+
+.hero-1{
+    color: white;
+    padding-top: 100px;
+    background-image: url(img/catania-4604017_1920.jpg);
+    background-repeat: repeat;
+}
+.footer{
+    background-color: dodgerblue;
+
+    font-size: large;
+    font-weight: 300;
+    width: 100%;
+}
+
+.column{
+    margin-left:  150px;
+    margin-right: 150px;
+}
+.column h1{
+    font-size: 60px;
+}
+.card-img-top{
+    min-height:234px;
+}
+
+.rounded-plane{
+    border: 1px solid black;
+    width: 36px!important;
+    height: 36px!important;
+    border-radius: 50%;   
+    padding: 6.5px 8px;
+    line-height: 2rem!important;
+}
